@@ -6,6 +6,8 @@ let tempo = 15
 
 let criaMosquitoTempo = 1500
 
+
+//Tempos de jogo em cada dificuldade 
 let nivel = window.location.search
 nivel = nivel.replace('?', '')
 
